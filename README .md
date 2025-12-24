@@ -5,7 +5,7 @@
 
 -   Department: Biomedical Engineering 
 -   Course :  Artificial Intelligence
--   GitHub: https://github.com/AI Assignment
+-   GitHub:https://github.com/amexzaman-glitch/machine-learning-code-
 
 => Biomedical Machine Learning Project
 
