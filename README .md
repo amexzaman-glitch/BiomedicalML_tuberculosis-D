@@ -1,12 +1,6 @@
-=> Author
-
--   Name:1, Amanuel Asfachew
-         2, Abebe bizani
-
 -   Department: Biomedical Engineering 
 -   Course :  Artificial Intelligence
--  [ GitHub:https://github.com/amexzaman-glitch/machine-learning-c
-](https://github.com/amexzaman-glitch/BiomedicalML_tuberculosis-D.git)
+-   GitHub:https://github.com/amexzaman-glitch/BiomedicalML_tuberculosis-D.git
 => Biomedical Machine Learning Project
 
 =>  Comprehensive TB Chest X-ray Classification
@@ -85,8 +79,7 @@ pip install numpy matplotlib seaborn scikit-learn opencv-python joblib
 1.  Clone the repository:
 
 ``` bash
-git clone https://github.com/yourusername/BiomedicalML_TB_ChestXray.git
-cd BiomedicalML_TB_ChestXray
+git clone https://github.com/amexzaman-glitch/BiomedicalML_tuberculosis-D.git
 ```
 
 2.  Update the dataset path in the code:
@@ -165,3 +158,8 @@ After execution, the following files are generated:
 -   `tb_chest_xray_model.pkl` -- Trained model
 -   `medical_tb_analysis_comprehensive.png` -- Evaluation plots
 -   `user_prediction_result.png` -- User prediction visualization
+
+ => Author
+-   Name:1, Amanuel Asfachew
+         2, Abebe bizani
+ 
