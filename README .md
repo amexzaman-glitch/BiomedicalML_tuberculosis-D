@@ -1,7 +1,3 @@
--   Department: Biomedical Engineering 
--   Course :  Artificial Intelligence
--   GitHub:https://github.com/amexzaman-glitch/BiomedicalML_tuberculosis-D.git
-
 => Biomedical Machine Learning Project
 
 =>  Comprehensive TB Chest X-ray Classification
@@ -162,5 +158,9 @@ After execution, the following files are generated:
 
  => Author
 -   Name:1, Amanuel Asfachew
+  
          2, Abebe bizani
- 
+    
+-   Department: Biomedical Engineering 
+-   Course :  Artificial Intelligence
+-   GitHub:https://github.com/amexzaman-glitch/BiomedicalML_tuberculosis-D.git 
