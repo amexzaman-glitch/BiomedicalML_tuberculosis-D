@@ -157,9 +157,9 @@ After execution, the following files are generated:
 -   `user_prediction_result.png` -- User prediction visualization
 
  => Author
--   Name:1, Amanuel Asfachew
-  
-         2, Abebe bizani
+           Name:
+         1, Amanuel Asfachew
+         2,Abebe Bizani
     
 -   Department: Biomedical Engineering 
 -   Course :  Artificial Intelligence
